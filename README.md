@@ -11,6 +11,14 @@ Los datos utilizados en este proyecto se proporcionan desde el siguiente enlace:
 [Maven Toys](https://www.kaggle.com/datasets/mysarahmadbhat/toy-sales)  
 Se nos proporcionan cuatro tablas en formato CSV que contienen los siguientes campos:
 
+### Stores (50 Diferentes Tiendas)
+Store_ID – ID único de cada tienda.  
+Store_Name – Nombre asignado a cada juguetería.  
+Store_City – Ciudad de México donde está ubicada la tienda.  
+Store_Location – Clasificación de la ubicación dentro de la ciudad (Centro, Comercial, Residencial, Aeropuerto).  
+Store_Open_Date – Fecha en que la tienda fue inaugurada.  
+Store_State – Estado de México donde está ubicada la tienda.  
+
 ### Products (35 Productos Únicos)
 Product_ID – ID único de cada producto ofrecido.  
 Product_Name – Nombre único asignado a cada producto.  
